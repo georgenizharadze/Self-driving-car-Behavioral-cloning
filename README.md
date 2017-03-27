@@ -14,8 +14,9 @@ Below is a detailed description of how I went about collecting the data, choosin
 
 * training\_model\_20.py - python script to create and train the model
 * drive.py - script to test-drive the car through the simulator
-* model\_20.h5 - Keras file containing the trained model architecture and weights 
 * video.mp4 - video demonstrating the behavior of my vehicle as dictated by the predictions of the model 
+
+The saved Keras model file, `model\_20.h5`, which contains the trained model architecture and weights is over 400MB in size and therefore, could not be uploaded to GitHub. I'm happy to share it upon request. 
 
 ## Data collection
 
